@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a098abf4ca81962327a185a2",
+  "owner": "s5fc3x",
+  "repo": "page-b0bc2df1b119e507f2b98e1d",
+  "title": "Posses",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b0bc2df1b119e507f2b98e1d",
+      "a": "Posses",
+      "b": "机场官网线路发布页",
+      "entity": "Posses",
+      "brand": "Posses",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d2d223b2a9ef34780ad61e5ce91d4c65cf0e57ea42ced9e792f8ddfa116ebe0f",
+      "content": {
+        "primary_entity": "Posses",
+        "keyword1": "Posses",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户提供多档位套餐与多设备订阅支持。基础版适合轻度使用，旗舰版强化流媒体与游戏专线，团队版满足多设备与商用途。客户端覆盖常见桌面与移动平台，可依据技能文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "多设备海外加速订阅",
+          "AI_HERO_INTRO": "Posses 提供基础版、旗舰版与团队版三档海外加速订阅，分别对应 100GB、300GB 与 1000GB 月流量。用户可按设备数量、流媒体与游戏需求选择合适档位，并参考客户端文档完成配置。",
+          "AI_VISUAL_TITLE": "Posses 加速订阅",
+          "AI_HIGHLIGHT_1": "三档月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "最多 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏优化",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "按使用强度与设备数量选择对应套餐，再结合订阅周期确认流量是否够用。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，月流量依次递增。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "三档均提供月付与年付，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_CLIENTS_TITLE": "常见客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备可选择对应客户端，配置时以订阅导入和节点选择为主。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度浏览，旗舰版适合流媒体与游戏，团队版适合多设备或商用途。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端订阅，按设备与需求逐步推进。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "依据月流量、设备数量与流媒体需求，在基础版、旗舰版或团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备型号与系统版本，选择对应的客户端类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅链接，选择节点后开始使用。",
+          "AI_FAQ_TITLE": "订阅与套餐问答",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Posses 有哪些套餐档位？",
+          "AI_FAQ_ANSWER_1": "提供基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月三档，年付分别为 ¥150、¥350、¥850。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_3": "是否支持流媒体与游戏加速？",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅导入选项，粘贴订阅链接并更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付相当于十个月价格，三档年付分别为 ¥150、¥350、¥850，适合长期使用的用户选择。",
+          "AI_CLOSING_TITLE": "选好档位即可订阅",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，参照客户端文档完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sanxingpeizi.cn",
+    "host": "sanxingpeizi.cn"
+  },
+  "file_hashes": {
+    "index.html": "59b0c73ad9c9bcab9e17621aeeea0b53de3af8aa143e578699b53c88028b1855",
+    "sitemap.xml": "e893a48c0d4e0cc7f83947db525e1b08bd5a12238bb4b83280ef163432a525be",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ac9de6525814c77c464a2626f39cfddd9645fcec3349388acefeeeaa443c4afe",
+    "robots.txt": "fb99f548010d6147e1a87496890bc5dfe49f36fb9228c5c32a64d41454d11b92",
+    "8e260d32dd61abf21cad3eea38596ec0.txt": "fea68baf6e3a5c2154861f362bc770d7f291fd4e482da3d6611b64a42f87c091"
+  },
+  "revision": "e0fb36536fff3fd5362746a012c4bbb8922533ea93d2d304c4bd1dcb8e43dc49"
+}
